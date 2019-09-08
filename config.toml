@@ -36,5 +36,5 @@ pygmentsCodefences       = true
     text = "linkedin"
 
 [[params.mainMenu]]
-    link = "mailto:r.uldashev@gmail.com"
+    link = "mailto:rustam.iuldashev@pm.me"
     text = "email"

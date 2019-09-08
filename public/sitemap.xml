@@ -4,17 +4,14 @@
   
   <url>
     <loc>https://keepclean.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://keepclean.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://keepclean.github.io/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://keepclean.github.io/tags/</loc>
   </url>
   
 </urlset>
