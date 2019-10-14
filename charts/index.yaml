@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  simple-app:
+  - apiVersion: v1
+    appVersion: "0.1"
+    created: "2019-10-14T14:13:06.784028+01:00"
+    description: A Helm chart for "simple app"
+    digest: 514e6eeeec59fd58af042d881efa4f3e68331b9691a7629c6cb47254ec4580e6
+    maintainers:
+    - email: riuldashev@apple.com
+      name: Rustam Iuldashev
+    name: simple-app
+    sources:
+    - https://gitlab.uk.shazamteam.net/riuldashev/sandbox/tree/master/k8s-playground/simple-app
+    urls:
+    - https://keepclean.github.io/simple-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-14T14:13:06.783488+01:00"
